@@ -12,6 +12,7 @@ A simple JavaScript-based game that showcases fundamental game mechanics and log
 ```bash
 git clone https://github.com/red-grass/Pigame.git
 cd Pigame
+```
 
 ## Usage
 Open index.html in a browser.
