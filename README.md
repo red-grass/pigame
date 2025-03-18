@@ -15,7 +15,7 @@ cd Pigame
 ```
 
 ## Usage
-Open index.html in a browser.
+Open ```bash index.html``` in a browser.
 
 ## How it Works
 This project creates an interactive game using JavaScript and HTML Canvas API. Players interact via keyboard or mouse inputs, and game logic is handled using JavaScript functions.
