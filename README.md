@@ -9,6 +9,7 @@ A simple JavaScript-based game that showcases fundamental game mechanics and log
 * Score tracking and game restart functionality.
 
 ## Installation
+```bash
 git clone https://github.com/red-grass/Pigame.git
 cd Pigame
 
